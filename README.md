@@ -30,7 +30,7 @@ Power BI · DAX · Power Query
 - `SA_Aqar.pdf`: نسخة PDF من الداشبورد
 
 ## مصدر البيانات | Data Source
-SA_Aqar: [ رابط المصدر]
+SA_Aqar: [(https://www.kaggle.com/datasets/lama122/saudi-arabia-real-estate-aqar)]
 
 ## التواصل | Contact
 Norah Alswayed · [www.linkedin.com/in/norahalswayed]
